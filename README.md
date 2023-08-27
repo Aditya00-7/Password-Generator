@@ -6,6 +6,7 @@ Generates solid and random passwords suitable for web development purposes.
 Customizable options for password length and character types.
 Copy-to-clipboard functionality for easy password integration.
 User-friendly and responsive web interface.
+
 Technology used:- HTML, CSS.
 
 
