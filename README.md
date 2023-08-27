@@ -1,5 +1,5 @@
 # Password-Generator
-The Password Generator for Web Development is a simple and secure tool that allows you to generate solid and random passwords for your web development projects. This README file provides all the information you need to understand, install, and use the password generator effectively.
+The Password Generator for Web Development is a simple and secure tool that allows you to generate solid and random passwords for your web development projects.
 
 Features:-
 Generates solid and random passwords suitable for web development purposes.
